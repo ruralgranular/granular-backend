@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+requests
+python-dotenv
+fastapi-mail
+pandas
